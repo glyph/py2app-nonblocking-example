@@ -1,0 +1,4 @@
+py2app
+pyobjc-core
+pyobjc-framework-Cocoa
+pyobjc-framework-ExceptionHandling

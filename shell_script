@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -fr dist
+python setup.py py2app --alias
+./dist/NBPy2AppTest.app/Contents/MacOS/NBPy2AppTest
